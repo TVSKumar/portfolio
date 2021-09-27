@@ -1,2 +1,2 @@
 # portfolio
-first attempt of learning
+A simple portfolio website
